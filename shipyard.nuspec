@@ -3,20 +3,19 @@
     <id>shipyard</id>
     <version>__version__</version>
     <packageSourceUrl>https://github.com/shipyard-run/choco</packageSourceUrl>
-    <owners>Erik Veld, Nic Jackson</owners>
     <title>Shipyard</title>
     <authors>Erik Veld, Nic Jackson</authors>
     <projectUrl>https://shipyard.run</projectUrl>
-    <iconUrl>https://shipyard.run/img/shipyard_no_text.png</iconUrl>-->
+    <iconUrl>https://shipyard.run/img/shipyard_no_text.png</iconUrl>
     <projectSourceUrl>https://github.com/shipyard-run/shipyard</projectSourceUrl>
     <docsUrl>https://shipyard.run</docsUrl>
     <tags>shipyard docker</tags>
     <summary>Shipyard is a tool for managing cloud native development environments</summary>
     <description>
-    Shipyard is tool for managing cloud native development environments. It can be used as a replacement for Docker Compose 
-    for creating containers with complex dependencies or Shipyard can also be used for creating development versions of Kuberentes or Nomad.
-    Shipyard allows you to define the configuration of your application as code, you can create clusters and containers, install software,
-    create ingress' and much more.
+      Shipyard is tool for managing cloud native development environments. It can be used as a replacement for Docker Compose 
+      for creating containers with complex dependencies or Shipyard can also be used for creating development versions of Kuberentes or Nomad.
+      Shipyard allows you to define the configuration of your application as code, you can create clusters and containers, install software,
+      create ingress' and much more.
     </description>
   </metadata>
   <files>
