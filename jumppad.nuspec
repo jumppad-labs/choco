@@ -1,0 +1,24 @@
+﻿<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>jumppad</id>
+    <version>__version__</version>
+    <packageSourceUrl>https://github.com/jumpppad-labs/choco</packageSourceUrl>
+    <title>JumpPad</title>
+    <authors>Erik Veld, Nic Jackson</authors>
+    <projectUrl>https://jumppad.dev</projectUrl>
+    <iconUrl>https://jumppad.dev/img/jumppad_no_text.png</iconUrl>
+    <projectSourceUrl>https://github.com/jumppad-labs/jumppad</projectSourceUrl>
+    <docsUrl>https://jumppad.dev/docs</docsUrl>
+    <tags>jumppad docker</tags>
+    <summary>Jumppad is a tool for managing cloud native development environments</summary>
+    <description>
+      Jumppad is tool for managing cloud native development environments. It can be used as a replacement for Docker Compose 
+      for creating containers with complex dependencies or Shipyard can also be used for creating development versions of Kuberentes or Nomad.
+      JumpPad allows you to define the configuration of your application as code, you can create clusters and containers, install software,
+      create ingress' and much more.
+    </description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
