@@ -2,7 +2,7 @@
   <metadata>
     <id>jumppad</id>
     <version>__version__</version>
-    <packageSourceUrl>https://github.com/jumpppad-labs/choco</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jumppad-labs/choco</packageSourceUrl>
     <title>JumpPad</title>
     <authors>Erik Veld, Nic Jackson</authors>
     <projectUrl>https://jumppad.dev</projectUrl>
