@@ -13,7 +13,7 @@
     <summary>Jumppad is a tool for managing cloud native development environments</summary>
     <description>
       Jumppad is tool for managing cloud native development environments. It can be used as a replacement for Docker Compose 
-      for creating containers with complex dependencies or Shipyard can also be used for creating development versions of Kuberentes or Nomad.
+      for creating containers with complex dependencies or Jumppad can also be used for creating development versions of Kubernetes or Nomad.
       JumpPad allows you to define the configuration of your application as code, you can create clusters and containers, install software,
       create ingress' and much more.
     </description>
